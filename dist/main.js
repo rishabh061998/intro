@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(10),console.log(230),document.createElement("h1"),h1.classList.add("redtext"),document.getElementById("root").appendChild(h1)})();
